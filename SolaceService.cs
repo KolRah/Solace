@@ -1,4 +1,10 @@
- public List<string> BrowseQueue(string queuename)
+/*
+     I'm not adding the full code here, the general part about context initialization is well documented in the Solace GitHub repos
+     https://github.com/SolaceSamples/solace-samples-dotnet/tree/master
+*/
+
+
+public List<string> BrowseQueue(string queuename)
         {
             try
             {   
